@@ -42,7 +42,6 @@
         "Mobile App Development",
         "Data Science"
       ],
-      "educationRequirements": "Bachelor's degree in Computer Science or related field",
        "skills": [
         "HTML",
         "Css",
@@ -84,7 +83,6 @@
         "Cardiologist",
         "Oncologist"
       ],
-      "licensingCertification": true
     }
   ]
 }
