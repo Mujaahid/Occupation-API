@@ -57,7 +57,7 @@
         "Full Stack Developer",
         "Mobile App Developer",
         "Data Engineer"
-      ],
+      ]
     },
     {
       "name": "Doctor",
@@ -82,7 +82,7 @@
         "Pediatrician",
         "Cardiologist",
         "Oncologist"
-      ],
+      ]
     }
   ]
 }
