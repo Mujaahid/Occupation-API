@@ -65,7 +65,6 @@
     },
     {
       "name": "Doctor",
-      "description": "Doctors diagnose and treat illnesses, injuries, and medical conditions.",
       "fields": [
         "Pediatrics",
         "Cardiology",
